@@ -13,7 +13,7 @@ Write code from scratch to make a webpage for a personal portoflio and complete 
 
 ![password demo](./Images/Screenshot.png)
 
-- Link to working URL: [My Portfolio](https://csmith0414.github.io/portfolio-project/)
+- Link to working URL: [Password Generator](https://csmith0414.github.io/password_generator/)
 
 ## Usage
 
